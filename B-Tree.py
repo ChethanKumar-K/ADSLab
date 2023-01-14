@@ -103,3 +103,15 @@ def main():
 
 if __name__ == '__main__':
   main()
+  
+# OUTPUT
+# Enter the order of B tree : 3
+# Enter the number of elements to insert : 10
+# Level  0   2 : (3, 21) (6, 42) 
+# Level  1   2 : (1, 7) (2, 14) 
+# Level  1   2 : (4, 28) (5, 35) 
+# Level  1   3 : (7, 49) (8, 56) (9, 63) 
+# Enter the element to find : 4
+
+# Found
+
